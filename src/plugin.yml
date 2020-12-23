@@ -1,0 +1,9 @@
+name: WhatLooking
+main: George.WhatLooking
+version: 1.0
+author: GeorgeMelikyan
+website: https://adventure.su/
+commands:
+  test:
+    description: This is a demo command.
+    usage: /<command>
